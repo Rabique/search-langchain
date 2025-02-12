@@ -2,7 +2,7 @@ langchain
 pypdf
 openai
 streamlit
-langchain.agents 
+
 langchain.callbacks 
 langchain.chat_models 
 langchain.tools 
