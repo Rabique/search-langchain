@@ -3,6 +3,3 @@ pypdf
 openai
 streamlit
 
-langchain.callbacks 
-langchain.chat_models 
-langchain.tools 
