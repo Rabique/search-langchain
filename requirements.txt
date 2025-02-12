@@ -2,4 +2,4 @@ langchain
 pypdf
 openai
 streamlit
-
+langchain_community
