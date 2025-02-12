@@ -3,3 +3,4 @@ pypdf
 openai
 streamlit
 langchain_community
+duckduckgo-search
